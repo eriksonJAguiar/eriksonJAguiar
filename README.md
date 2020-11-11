@@ -14,7 +14,7 @@
 <h3 align="left">Goals for 2021:</h3>
 
 - Starting learn Elixir - functional language
-- get into a PhD
+- Get into a PhD
 - Improve my Reactjs knowledge
 
 
