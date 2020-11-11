@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Erikson Aguiar</h1>
+<h1 align="center">Hi there 👋, I'm a graduate student</h1>
 <h3 align="center">A graduate student in blockchain, privacy, cybersecurity, and Machine Learning</h3>
 
 - 🔭 I’m currently working on [a module to provide privacy in Golang](https://github.com/eriksonJAguiar/godiffpriv)
