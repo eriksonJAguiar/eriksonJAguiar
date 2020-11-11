@@ -11,11 +11,15 @@
 
 - ⚡ Fun fact **In day offs I enjoy to play video games, football,reading, and running**
 
-<h3 align="left">Goals for 2021</h3>
+<h3 align="left">Goals for 2021:</h3>
 
 - Starting learn Elixir - functional language
 - get into a PhD
 - Improve my Reactjs knowledge
+
+<h3 align="left">Spotfy playing 🎧</h3>
+
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/22xgn2oywqvr6p6ytf3q5unya)
 
 
 <h3 align="left">Languages and Tools:</h3>
