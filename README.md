@@ -11,11 +11,6 @@
 
 - ⚡ Fun fact **In my free time I enjoy playing video games, football, reading, and running.**
 
-<h3 align="left">Goals for 2021:</h3>
-
-- Starting learn Elixir - functional language
-- Get into a PhD
-- Improve my Reactjs knowledge
 
 
 <h3 align="left">Languages and Tools:</h3>
