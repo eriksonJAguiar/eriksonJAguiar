@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm a graduate student</h1>
-<h3 align="center">A graduate student in blockchain, privacy, cybersecurity, and Machine Learning</h3>
+<h3 align="center">A graduate student in Computer Science at ICMC USP</h3>
+<h3 align="center">Interested in Blockchain, Security, Privacy, and Machine Learning </h3>
 
-- 🔭 I’m currently working on [a module to provide privacy in Golang](https://github.com/eriksonJAguiar/godiffpriv)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning about **Differential Privacy, IBM Hyperledger, and React**
+- 🌱 I’m currently learning about **Adversarial Machine Learning techniques, Deep Learning, and React**
 
-- 💬 Ask me about **privacy and blockchain**
+- 💬 Ask me about **Blockchain, Privacy, and Machine Learning**
 
 - 📫 How to reach me **erjulioaguiar@usp.br**
 
-- ⚡ Fun fact **In day offs I enjoy to play video games, football,reading, and running**
+- ⚡ Fun fact **In my free time I enjoy playing video games, football, reading, and running.**
 
 <h3 align="left">Goals for 2021:</h3>
 
