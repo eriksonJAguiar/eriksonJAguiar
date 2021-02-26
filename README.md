@@ -1,11 +1,12 @@
-<h1 align="center">Hi there 👋, I'm MSc in Computer Science -- ICMC USP</h1>
-<h3 align="center">Interested in Blockchain, Security, Privacy, and Machine Learning</h3>
+<h1 align="center">Hi there 👋, I'm a PhD student in Computer Science -- ICMC USP</h1>
+<h3 align="center"> MSc in Computer Science -- ICMC USP</h3>
+<h3 align="center">Interested in Blockchain, Machine & Deep Learning, and Security & Privacy</h3>
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning about **Adversarial Machine Learning techniques, Deep Learning, and React**
+- 🌱 I’m currently learning about **Adversarial Learning techniques, Deep Learning, and React**
 
-- 💬 Ask me about **Blockchain, Privacy, and Machine Learning**
+- 💬 Ask me about **Blockchain, Security & Privacy, Machine Learning, Golang, and Python**
 
 - 📫 How to reach me **erjulioaguiar@usp.br**
 
