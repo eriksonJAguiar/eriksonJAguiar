@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a PhD student in Computer Science -- ICMC USP</h1>
+<h1 align="center">Hi there 👋, I'm a Computer Science PhD Student -- ICMC USP</h1>
 <h3 align="center"> MSc in Computer Science -- ICMC USP</h3>
 <h3 align="center">Interested in Blockchain, Machine & Deep Learning, and Security & Privacy</h3>
 
