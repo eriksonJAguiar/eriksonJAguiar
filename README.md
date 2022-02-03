@@ -2,7 +2,7 @@
 <h3 align="center"> MSc in Computer Science at ICMC USP</h3>
 <h3 align="center">Interested in Blockchain, Machine Learning Security, Deep/Machine Learning, Computer Vision, and Privacy</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **Deep Learning techniques for medical imaging**
 
 - 🌱 I’m currently learning about **Machine Learning Security**
 
