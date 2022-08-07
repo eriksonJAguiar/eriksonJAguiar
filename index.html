@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Erikson Aguiar</title>
+
+        <!-- Custom Css File -->
+        <link rel="stylesheet" href="style.css" />
+
+        <!-- CDN Fonts Google -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap"
+            rel="stylesheet"
+        />
+
+        <!-- CDN Fonts Academicicons -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
+        />
+
+        <!-- CDN Fontawesome -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+            integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+
+        <!-- CDN Flickity CSS -->
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/flickity@2/dist/flickity.min.css"
+        />
+    </head>
+    <body>
+        <nav class="navbar">
+            <div class="navbar__logo">
+                <p>Erikson Aguiar</p>
+            </div>
+
+            <input type="checkbox" id="check" />
+            <label for="check" class="hamburguer">
+                <i class="fa fa-bars" id="navbar__icon"></i>
+            </label>
+
+            <ul class="navbar__list">
+                <li class="navbar__list__item">
+                    <a href="#home" class="navbar__link">Home</a>
+                </li>
+                <li class="navbar__list__item">
+                    <a href="#publications" class="navbar__link"
+                        >Publications</a
+                    >
+                </li>
+                <li class="navbar__list__item">
+                    <a href="#projects" class="navbar__link">Projects</a>
+                </li>
+                <li class="navbar__list__item">
+                    <a href="#grants" class="navbar__link">Grants</a>
+                </li>
+                <li class="navbar__list__item">
+                    <a href="#talks" class="navbar__link">Talks</a>
+                </li>
+            </ul>
+        </nav>
+
+        <section class="hero" id="home">
+            <div class="hero__image">
+                <img
+                    src="assets/erikson.jpeg"
+                    alt="Picture of Erikson Aguiar"
+                    class="image"
+                />
+
+                <h1>Erikson Aguiar, MSc</h1>
+
+                <span>PhD Student</span>
+                <span>University of São Paulo</span>
+
+                <div class="hero__image__contact">
+                    <a
+                        href="https://www.linkedin.com/in/erjulioaguiar/"
+                        target="_blank"
+                    >
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+                    <a
+                        href="http://lattes.cnpq.br/7161777815114183"
+                        target="_blank"
+                    >
+                        <i class="ai ai-lattes"></i>
+                    </a>
+                    <a
+                        href="https://www.researchgate.net/profile/Erikson-Aguiar"
+                        target="_blank"
+                    >
+                        <i class="fa-brands fa-researchgate"></i>
+                    </a>
+                    <a
+                        href="https://orcid.org/0000-0001-8563-8051"
+                        target="_blank"
+                    >
+                        <i class="fa-brands fa-orcid"></i>
+                    </a>
+                    <a
+                        href="
+                        https://scholar.google.com.br/citations?user=oHVJK2AAAAAJ&hl=en
+                        "
+                        target="_blank"
+                    >
+                        <i class="ai ai-google-scholar google-scholar"></i>
+                    </a>
+                    <a
+                        href="
+                        https://twitter.com/erjulioaguiar
+                        "
+                        target="_blank"
+                    >
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="hero__content">
+                <div class="hero__content__text">
+                    <h2>About</h2>
+
+                    <div class="hero__content__text__about">
+                        <p>
+                            Erikson Aguiar is a Ph.D. student of Security and Privacy in Machine 
+                            Learning at Database and Image Group (GBDI), University of São Paulo, 
+                            Brazil. Her research interests include Machine Learning, Image Processing, 
+                            Security & Privacy, Distributed Systems, and Blockchain. Currently, He has 
+                            researched Security and Privacy in Machine Learning to aim to build Deep 
+                            Learning models trustworthy for healthcare applications. Also, he has 
+                            technical skills in C, Golang, Nodejs, Python, Git, TensorFlow, 
+                            Pytorch, Scikit-learn, OpenCV, Docker, GCP, and AWS.  
+                        </p>
+
+                        <p>
+                            I am passionate about coffee, sports, and rock'n roll. When I leave 
+                            the office I enjoy to cheer on Flamengo, watching nerd stuffs, and running.  
+                        </p>
+                    </div>
+
+                    <div class="hero__content__text__test">
+                        <div class="hero__content__text__interests flex">
+                            <h3>Interests</h3>
+
+                            <ul>
+                                <li>Machine Learning</li>
+                                <li>Security & Privacy</li>
+                                <li>Image Processing</li>
+                                <li>Distribuited Systems</li>
+                            </ul>
+                        </div>
+
+                        <div class="hero__content__text__education">
+                            <h3>Education</h3>
+
+                            <ul>
+                                <div
+                                    class="hero__content__text__education__faculty"
+                                >
+                                    <li>
+                                        <i
+                                            class="fa-solid fa-graduation-cap"
+                                        ></i>
+                                        PhD in Computer Science, ongoing
+                                    </li>
+                                    <span>University of São Paulo</span>
+                                </div>
+                                <div
+                                    class="hero__content__text__education__faculty"
+                                >
+                                    <li>
+                                        <i
+                                            class="fa-solid fa-graduation-cap"
+                                        ></i>
+                                        MSc in Computer Science, 2021
+                                    </li>
+                                    <span>University of Sao Paulo</span>
+                                </div>
+                                <div
+                                    class="hero__content__text__education__faculty"
+                                >
+                                    <li>
+                                        <i
+                                            class="fa-solid fa-graduation-cap"
+                                        ></i>
+                                        BSc in Computer Science, 2017
+                                    </li>
+                                    <span
+                                        >State University of Nortern
+                                        Parana</span
+                                    >
+                                </div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="publications" id="publications">
+            <h2>Publications</h2>
+
+            <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FeriksonJAguiar%2FeriksonJAguiar%2Fmain%2Ferikson_ref.bib&commas=true&jsonp=1%22%3E"></script>
+        </section>
+
+        <section class="projects" id="projects">
+            <h2>Projects</h2>
+
+            <div class="projects__content">
+                <div class="projects__content__info">
+                    <h3>
+                        <a href="https://bv.fapesp.br/pt/bolsas/200993/seguranca-e-privacidade-em-modelos-de-aprendizagem-de-maquina-para-imagens-medicas-contra-ataques-ad/">
+                            Security and privacy in machine learning models to
+                            medical images against adversarial attacks
+                        </a>
+                    </h3>
+
+                    <h4>
+                        Support type:
+                        <span>Scholarships in Brazil - Doctorate</span>
+                    </h4>
+
+                    <h4>
+                        Duration:
+                        <span>March 01, 2022 - February 28, 2026</span>
+                    </h4>
+
+                    <h4>
+                        Members:
+                        <span>
+                            Agma Juci Machado Traina, Erikson Júlio de
+                            Aguiar</span
+                        >
+                    </h4>
+                </div>
+            </div>
+
+            <div class="projects__content">
+                <div class="projects__content__info">
+                    <h3>
+                       <a href="https://bv.fapesp.br/en/bolsas/184519/a-trust-protocol-with-multiple-levels-of-access-case-study-with-blockchain-in-medical-applications/">
+                            A trust protocol with multiple levels of access: case
+                            study with blockchain in medical applications
+                        </a>
+                    </h3>
+
+                    <h4>
+                        Support type:
+                        <span>Scholarships in Brazil - Master</span>
+                    </h4>
+
+                    <h4>
+                        Duration:
+                        <span>April 01, 2019 - October 31, 2020</span>
+                    </h4>
+
+                    <h4>
+                        Members:
+                        <span> Jó Ueyama, Erikson Júlio de Aguiar</span>
+                    </h4>
+                </div>
+            </div>
+        </section>
+
+        <section class="grants" id="grants">
+            <h2>Grants</h2>
+
+            <li class="grants__list">
+                <h4>
+                    <span
+                        >March 2022 - February 2025. Scholarship in Brazil -
+                        Doctorate. São Paulo Research Foundation (FAPESP)</span
+                    >
+                </h4>
+
+                <h4>
+                    <span
+                        >April 2019 - October 2020. Scholarship in Brazil -
+                        Master. São Paulo Research Foundation (FAPESP)</span
+                    >
+                </h4>
+
+                <h4>
+                    <span
+                        >November 2018 - March 2019. Scholarship in Brazil -
+                        Master. Coordenação de Aperfeiçoamento de Pessoal de
+                        Nivel Superior (CAPES)</span
+                    >
+                </h4>
+
+                <h4>
+                    <span
+                        >September 2016 - August 2017. Scholarship in Brazil -
+                        Undergraduat. Conselho Nacional de Desenvolvimento
+                        Científico e Tecnológico (CNPq)</span
+                    >
+                </h4>
+            </li>
+        </section>
+
+        <section class="talks" id="talks">
+            <h2>Talks</h2>
+
+            <div
+                class="carousel"
+                data-flickity='{ "autoPlay": true, "lazyLoad": 1, "wrapAround": true, "setGallerySize": false }'
+            >
+                <div class="carousel-cell">
+                    <h3>
+                        <a
+                            href="https://youtu.be/QU4jU1CZvOw"
+                            target="_blank"
+                            >How to fool machine learning [PT-BR]
+                        </a>
+                    </h3>
+                    <p>
+                        Talk presented at Federal University of Technology -- Paraná (UTFPR),
+                        Apucarana, Parana, Brazil. 2021.
+                    </p>
+                </div>
+
+                <div class="carousel-cell">
+                    <h3>
+                        <a
+                            href="https://youtu.be/YKkp9iem4j0"
+                            target="_blank"
+                            >Privacy [PT-BR]
+                        </a>
+                    </h3>
+                    <p>
+                        Talk presented at Federal University of Technology -- Paraná (UTFPR),
+                        Apucarana, Parana, Brazil. 2020.
+                    </p>
+                </div>
+
+                <div class="carousel-cell">
+                    <h3>
+                        <a
+                            href="https://cct.uenp.edu.br/site/2019/nav.php?page=oficina&id=1"
+                            target="_blank"
+                            >Fundamentals and challanges of Blockchain [PT-BR]
+                        </a>
+                    </h3>
+                    <p>
+                        Talk presented at State University of Northern Parana, Bandeirantes, Brazil.
+                        2019.   
+                    </p>
+                </div>
+
+                <div class="carousel-cell">
+                    <h3>
+                        <a
+                            href="https://cct.uenp.edu.br/site/2020/nav.php?page=participante&id=7"
+                            target="_blank"
+                            >Data Privacy [PT-BR]
+                        </a>
+                    </h3>
+                    <p>
+                        Talk presented at State University of Northern Parana, Bandeirantes, Brazil.
+                        2020.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Flickity JS -->
+        <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+        <!-- Custom Js file -->
+        <script src="index.js"></script>
+    </body>
+</html>
