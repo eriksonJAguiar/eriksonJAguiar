@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, I'm a PhD Student in Computer Science at ICMC USP</h1>
+<h1 align="center">Hi there 👋, I'm a PhD Candidate in Computer Science at ICMC USP</h1>
 <h3 align="center"> MSc in Computer Science at ICMC USP</h3>
 <h3 align="center">Interested in Blockchain, Machine Learning Security, Deep/Machine Learning, Computer Vision, and Privacy</h3>
 
-- 🔭 I’m currently working on **Deep Learning techniques for medical imaging**
+- 🔭 I’m currently working on **Security and Privacy in Machine Learning and Computer Aided Diagnosis**
 
-- 🌱 I’m currently learning about **Machine Learning Security**
+- 🌱 I’m currently learning about **Federated Learning and Continual Learning**
 
-- 💬 Ask me about **Blockchain, Security & Privacy, Machine Learning, Golang, and Python**
+- 💬 Ask me about **Blockchain, Security & Privacy, Machine Learning, Python, and Computer Science Research**
 
-- 📫 How to reach me **erjulioaguiar@usp.br**
+- 📫 How to reach me out **erjulioaguiar@usp.br**
 
-- ⚡ Fun fact **In my free time I enjoy playing video games, football, reading, and running.**
+- ⚡ Fun fact **In my free time, I enjoy playing video games, football, reading, and running.**
 
 
 
